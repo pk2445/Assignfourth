@@ -1,0 +1,31 @@
+{
+    "catlist": [
+        {
+            "type": "baby"
+        },
+        {
+            "type": "young"
+        },
+        {
+            "type": "old"
+        },
+        {
+            "type": "black"
+        },
+        {
+            "type": "white"
+        },
+        {
+            "type": "brown"
+        },
+        {
+            "type": "old"
+        },
+        {
+            "type": "young"
+        },
+        {
+            "type": "gray"
+        }
+    ]
+}
